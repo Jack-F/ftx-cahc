@@ -1,206 +1,206 @@
 {
   "Home": {
-    "title": "Join the FTX Customer Ad-Hoc Committee (CAHC) and Vote: NO",
-    "latest_news": "Latest News",
-    "latest": "Latest",
-    "latest_news_content": "Mar 6: FTX Debtors request 4 month delay, pay US Gov with customer assets",
+    "title": "FTX 고객 임시위원회(CAHC) 에 참여하고 반대 투표 하세요.",
+    "latest_news": "최신 뉴스",
+    "latest": "최신",
+    "latest_news_content": "3월 6일: FTX 채무자들, 4개월 연기 요청 및 미국 정부에 고객 자산으로 지불 요청",
     "description": "With over <b>1000+ former FTX customers</b> holding <b>9-figures in claims</b> we have formed the largest voting block in the FTX bankruptcy cases.",
     "legal_counsel": "Our legal counsel <b>McCarter & English, LLP</b> have filed customer property litigation: <b>docket 6863</b>",
     "join_us": "Join us in voting <b>NO</b> on any plan that fails to addresses serious issues impacting recovery of customer property.",
     "read_more": "Read our <bylaws>bylaws</bylaws> and <charter>charter</charter> to learn more.",
-    "find_your_ftx_claim": "Find your FTX claim",
-    "to_get_started": "to get started"
+    "find_your_ftx_claim": "당신의 FTX 청구를 찾으세요",
+    "to_get_started": "시작하려면"
   },
   "CountStats": {
-    "stat1": "Customers Joined",
-    "stat2": "Total Claims"
+    "stat1": "가입 고객",
+    "stat2": "총 청구액"
   },
   "FightingFor": {
-    "issues_with_current_plan": "Issues with current plan",
-    "we_vote_no": "We vote 'no' on any plan unless the following issues are addressed",
-    "debtors_filed_plan": "The debtors have filed a half-baked and value-destructive plan. We aim to fix it by litigating our property rights and negotiating for common sense solutions like those below.",
-    "priority_for_customers": "Priority for customers.",
-    "priority_for_customers_desc": "If the current plan stands, upside goes to non-customers even from proceeds that were 100% traced to customer wallets, like Anthropic.",
-    "theft_of_property_damages": "Theft of property damages.",
-    "theft_of_property_damages_desc": "Customers should recover today's valuation of their crypto assets due to theft of property.",
-    "no_withholding_tax": "No 30% withholding tax.",
-    "no_withholding_tax_desc": "Since the large majority of customers are non-US we will be subject to a 30% withholding tax which we will have to claim back from the IRS, an issue that the debtors have completely ignored due to their US focus.",
-    "digital_distributions": "Digital distributions.",
-    "digital_distributions_desc": "The debtors want to distribute recoveries via 'cash' which is lawyer-speak for checks in the mail. This is a huge and costly administrative burden that will reduce and delay recoveries."
+    "issues_with_current_plan": "현재 계획의 문제점",
+    "we_vote_no": "다음 문제가 해결되지 않는 한 어떤 계획에도 반대 투표합니다",
+    "debtors_filed_plan": "채무자들이 불완전하고 가치 파괴적인 계획을 제출했습니다. 우리는 재산권 소송 및 아래와 같은 상식적인 해결책 협상을 통해 이를 바로 잡고자 합니다.",
+    "priority_for_customers": "고객을 위한 우선권",
+    "priority_for_customers_desc": "현재 계획에 따르면, Anthropic과 같이 100% 고객 지갑에서 추적된 수익조차도 비고객에게 이익이 돌아가게 됩니다.",
+    "theft_of_property_damages": "재산 피해 절도",
+    "theft_of_property_damages_desc": "고객들은 재산 피해로 인해 오늘의 암호화 자산 평가액을 회복해야 합니다.",
+    "no_withholding_tax": "30%의 원천징수세 제외.",
+    "no_withholding_tax_desc": "대부분의 고객이 미국인이 아니기 때문에 우리는 30%의 세금 공제를 받게 될 것이며, 이 세금을 IRS로부터 되찾아야 할 것입니다. 채무자들은 미국에 중점을 두어 이 문제를 완전히 무시해 왔습니다.",
+    "digital_distributions": "디지털 배포",
+    "digital_distributions_desc": "채무자들은 회수액을 '현금'이라는 용어로 지급하려는데, 이는 실제로 우편으로 수표를 발송하는 것을 뜻합니다. 이는 매우 크고 비용이 많이 드는 행정적 부담으로, 회수액을 줄이고 그 지연을 야기할 것입니다."
   },
   "TopNav": {
-    "home": "Home",
-    "find_claim": "Find Claim",
-    "telegram": "Telegram",
-    "my_claim_dashboard": "My Claim Dashboard",
-    "dashboard": "Dashboard",
-    "sign_in": "Sign In"
+    "home": "홈",
+    "find_claim": "청구 찾기",
+    "telegram": "텔레그램",
+    "my_claim_dashboard": "나의 청구 대시보드",
+    "dashboard": "대시보드",
+    "sign_in": "로그인"
   },
   "Footer": {
-    "court_filings": "Court Filings",
-    "adversary_proceeding": "Adversary Proceeding",
-    "anthropic_objection": "Anthropic Objection",
-    "estimation_objection": "Estimation Objection",
-    "letter_to_ucc": "Letter to UCC",
-    "documents": "Documents",
-    "cahc_bylaws": "CAHC Bylaws",
-    "cahc_charter": "CAHC Charter",
-    "terms_of_service": "Terms of Service",
-    "privacy_policy": "Privacy Policy",
-    "links": "Links",
-    "cahc_telegram": "CAHC Telegram",
-    "cahc_twitter": "CAHC Twitter",
-    "debtors_filings": "Debtors Filings",
-    "debtors_plan": "Debtor's Plan",
-    "disclosure_statement": "Disclosure Statement"
+    "court_filings": "법정 서류",
+    "adversary_proceeding": "적대적 소송",
+    "anthropic_objection": "Anthropic 이의",
+    "estimation_objection": "평가 이의",
+    "letter_to_ucc": "UCC에 보낸 편지",
+    "documents": "문서",
+    "cahc_bylaws": "CAHC 규정",
+    "cahc_charter": "CAHC 헌장",
+    "terms_of_service": "서비스 약관",
+    "privacy_policy": "개인정보 처리방침",
+    "links": "링크",
+    "cahc_telegram": "CAHC 텔레그램",
+    "cahc_twitter": "CAHC 트위터",
+    "debtors_filings": "채무자 제출서",
+    "debtors_plan": "채무자의 계획",
+    "disclosure_statement": "공시 성명서"
   },
   "Shell": {
-    "my_claim": "My Claim",
-    "find_claim": "Find Claim",
-    "recovery_analysis": "Recovery Analysis",
-    "sign_out": "Sign Out"
+    "my_claim": "나의 청구",
+    "find_claim": "청구 찾기",
+    "recovery_analysis": "회수 분석",
+    "sign_out": "로그아웃"
   },
   "Dashboard": {
-    "title": "Welcome to the FTX Customer Ad-Hoc Voting Blo1ck",
-    "subtitle": "We have now formed the largest voting block with hundreds of members and 9-figures in claims.",
-    "claim_list_title": "Your Claim",
-    "now_what": "Now What?",
-    "now_what_text": "Join the <telegram>Telegram</telegram> group. Look out for emails from <white>updates@ftxvote.com</white> for further instructions.",
-    "about_us": "About us",
-    "about_us_text": "Thus far the FTX Debtors have proposed a value destructive plan.\n\nSince the Unsecured Creditors Committee has a fiduciary duty to all unsecured creditors including Alameda creditors, they are unable to fight on behalf of only FTX customers. Nor is the Ad Hoc Committee counseled by Eversheds an option, as they already agreed to settle their litigation and are now bound to support the debtors.\n\nThe estate is due to recover well over 100% petition date value and instead of accruing the surplus back to customers, the debtors plan to use our assets to pay non-customers and US government regulators instead.\n\nThe judge requires us to formally organize in order for our point of view to be considered in court."
+    "title": "FTX 고객 임시 투표 블록에 오신 것을 환영합니다.",
+    "subtitle": "지금 우리는 수백 명의 회원과 9자리 수의 청구액으로 가장 큰 투표 블록을 구성했습니다.",
+    "claim_list_title": "당신의 청구",
+    "now_what": "이제 무엇을 해야 할까요?",
+    "now_what_text": "<telegram>텔레그램</telegram> 그룹에 참여하세요. 추가 지침을 위해 <white>updates@ftxvote.com</white>에서 오는 이메일을 주시하십시오.",
+    "about_us": "소개",
+    "about_us_text": "현재까지 FTX 채무자들은 가치를 파괴하는 계획을 제안했습니다.\n\n무담보 채권자 위원회는 Alameda 채권자를 포함한 모든 무담보 채권자에게 신뢰 의무를 지니고 있기 때문에 FTX 고객만을 위해 싸울 수 없습니다. 또한 Eversheds에게 상담을 받은 임시위원회 역시 선택사항이 아닙니다. 왜냐하면 그들은 이미 소송을 해결하기로 합의하고 이제는 채무자를 지원할 의무가 있습니다.\n\n자산은 100% 이상의 청구일 날 가치를 회수할 예정이며, 이를 고객에게 반환하는 대신 채무자들은 우리 자산을 비고객과 미국 정부 감독기관에 지불하기 위해 사용할 계획입니다.\n\n판사는 우리의 견해가 법정에서 고려되기 위해 공식적으로 조직되어야 한다고 요구합니다."
   },
   "MyClaims": {
-    "customer_code_long": "Customer code",
-    "customer_code_short": "Code",
-    "petition_value": "Petition value",
-    "today_value": "Today's value",
-    "verify_claim_text": "Verify ownership of this claim",
-    "verify_claim_btn": "Verify on ftx.com (coming soon)"
+    "customer_code_long": "고객 코드",
+    "customer_code_short": "코드",
+    "petition_value": "청구 가치",
+    "today_value": "현재 가치",
+    "verify_claim_text": "이 청구의 소유권을 확인하세요.",
+    "verify_claim_btn": "ftx.com에서 확인하세요 (곧 제공될 예정입니다)"
   },
   "CoinsList": {
-    "th_asset": "Asset",
-    "th_balance": "Balance",
-    "th_petition": "Petition USD",
-    "th_today": "Today's USD",
+    "th_asset": "자산",
+    "th_balance": "잔고",
+    "th_petition": "청구 미국 달러",
+    "th_today": "현재 미국 달러",
     "coin_type": {
-      "token": "token"
+      "token": "토큰"
     }
   },
   "ThisIsMyClaim": {
-    "text": "Register this claim to get started",
-    "btn": "This is my claim"
+    "text": "시작하려면 이 청구를 등록하세요.",
+    "btn": "이것은 내 청구입니다."
   },
   "Find": {
-    "title": "Find a claim",
-    "subtitle": "For us to represent your voice in court, you must register your claim with us. If your claim shows correctly in <MyClaims>My Claims</MyClaims> then you don't need to do anything."
+    "title": "청구를 찾기",
+    "subtitle": "우리가 법정에서 당신의 목소리를 대변하려면 당신의 청구를 우리와 함께 등록해야 합니다. 만약 당신의 청구가 <MyClaims>나의 청구</MyClaims>에 올바르게 나타나 있다면, 당신은 아무것도 할 필요가 없습니다."
   },
   "SearchForm": {
-    "description": "Specify roughly how many tokens you had to identify your claim.",
-    "asset": "Asset",
-    "minimum": "Minimum",
-    "maximum": "Maximum",
-    "search": "Search",
-    "search_loading": "Searching through millions of claims..."
+    "description": "귀하의 청구를 식별하기 위해 대략 몇 개의 토큰이 있었는지 지정하십시오.",
+    "asset": "자산",
+    "minimum": "최소",
+    "maximum": "최대",
+    "search": "찾기",
+    "search_loading": "수백만 건의 청구를 검색하는 중..."
   },
   "RecoveryAnalysis": {
-    "title": "Recovery Analysis",
-    "subtitle": "The estate holds far more assets than the customer property valued at petition date prices which will lead to a >$1 plan."
+    "title": "회수 분석",
+    "subtitle": "자산은 청구일 가격으로 평가된 고객 자산보다 훨씬 많은데, 이는 1달러 이상의 계획을 이끌 것입니다."
   },
   "ImportantDates": {
-    "title": "Important Dates",
+    "title": "중요한 일정",
     "date1": {
-      "title": "Mar 1",
-      "description": "Disclosure Statement Due (Blown)",
-      "highlight": "no",
+      "title": "5월 1일",
+      "description": "공시 성명서 마감 (지연됨)",
+      "highlight": "아니요",
       "easternTime": ""
     },
     "date2": {
-      "title": "Mar 20",
-      "description": "Omnibus Hearing",
-      "highlight": "yes",
-      "easternTime": "10:00 ET"
+      "title": "5월 20일",
+      "description": "종합 심리",
+      "highlight": "네",
+      "easternTime": "10시 동부 표준시"
     },
     "date3": {
-      "title": "Mar 28",
-      "description": "SBF Sentencing",
-      "highlight": "yes",
-      "easternTime": "09:30 ET"
+      "title": "5월 28일",
+      "description": "SBF 형량 선고",
+      "highlight": "네",
+      "easternTime": "9시 30분 동부 표준시"
     },
     "date4": {
-      "title": "May 15",
-      "description": "Disclosure Statement Confirmation Hearing (Blown)",
-      "highlight": "no",
+      "title": "5월 15일",
+      "description": "공시 성명서 확인 심리 (지연됨)",
+      "highlight": "아니요",
       "easternTime": ""
     },
     "date5": {
-      "title": "Apr 18",
-      "description": "Hearing Cancelled",
-      "highlight": "no",
-      "easternTime": "13:00 ET"
+      "title": "4월 18일",
+      "description": "심리가 취소되었습니다.",
+      "highlight": "아니요",
+      "easternTime": "13시 동부 표준시"
     },
     "date6": {
-      "title": "May 1",
-      "description": "IRS Estimation Hearing",
-      "highlight": "no",
+      "title": "5월 1일",
+      "description": "IRS 평가 심리",
+      "highlight": "아니요",
       "easternTime": ""
     },
     "date7": {
-      "title": "May 12",
-      "description": "Debtor Exclusivity Expires",
-      "highlight": "no",
+      "title": "5월 12일",
+      "description": "채무자 배제기간 만료",
+      "highlight": "아니요",
       "easternTime": ""
     },
     "date8": {
-      "title": "May 23",
-      "description": "Omnibus Hearing",
-      "highlight": "yes",
-      "easternTime": "13:00 ET"
+      "title": "5월 23일",
+      "description": "종합 청문회",
+      "highlight": "네",
+      "easternTime": "13시 동부 표준시"
     },
     "date9": {
-      "title": "June 15",
-      "description": "Bahamas Bar Date",
-      "highlight": "no",
+      "title": "6월 15일",
+      "description": "바하마 법정 제출 마감일",
+      "highlight": "아니요",
       "easternTime": ""
     },
     "date10": {
-      "title": "Jul 1",
-      "description": "Plan Vote Deadline (Blown)",
-      "highlight": "no",
+      "title": "7월 1일",
+      "description": "계획 투표 마감일 (불이행)",
+      "highlight": "아니요",
       "easternTime": ""
     },
     "date11": {
-      "title": "Jul 12",
-      "description": "Solicitation Exclusivity Expires",
-      "highlight": "no",
+      "title": "7월 12일",
+      "description": "선호권 기간 만료",
+      "highlight": "아니요",
       "easternTime": ""
     }
   },
   "Register": {
-    "notification": "Selected {count, plural, one {# claim} other {# claims}}",
-    "registerButton": "Register"
+    "notification": "선택된 {count, plural, one {# 청구} other {# 청구들}}",
+    "registerButton": "등록"
   },
   "SignUpWithClaims": {
-    "makeYourVoiceHeard": "Make your voice heard",
-    "completeRegistrationForm": "Complete this registration form",
-    "removeButton": "Remove",
-    "confirmOwnershipText": "Do you confirm, under penalty of perjury, that you are the owner of {count, plural, one {this claim?} other {these claims?}}",
-    "fullNameLabel": "Full name",
-    "fullNamePlaceholder": "Your Name",
-    "emailLabel": "Contact email",
+    "makeYourVoiceHeard": "당신의 목소리를 들려주세요.",
+    "completeRegistrationForm": "이 등록 양식을 완료하세요.",
+    "removeButton": "제거",
+    "confirmOwnershipText": "위증 시 처벌을 받는다는 조건 하에 당신이 {count, plural, one {이 청구} other {이 청구들}}의 소유자임을 확인하시겠습니까?",
+    "fullNameLabel": "성명",
+    "fullNamePlaceholder": "이름",
+    "emailLabel": "이메일 연락처",
     "emailPlaceholder": "your@email.com",
-    "agreementText": "By confirming you agree to the CAHC defending your property rights, to publish your name in a declaration to the court, to receive emails and to abide by our <bylaws>bylaws</bylaws>.",
-    "disagreementWarning": "If you DO NOT confirm, the court will assume customers agree with the debtors' proposed petition value recoveries.",
-    "emailAlreadyInUseError": "Email already in use.",
-    "signInLink": "Sign-in",
-    "confirmButton": "Yes, I Confirm",
-    "cancelButton": "Cancel",
-    "successMessage": "You have successfully registered!",
-    "checkEmailMessage": "Check your email for next steps.",
-    "emailExpiredError": "Email link has expired",
-    "signInOtherTabMessage": "Sign in on other tab"
+    "agreementText": "확인함으로써, CAHC가 당신의 재산권을 보호하고, 법원에 선언서에 당신의 이름을 게시하며, 이메일을 받는 것에 동의하고, 우리의 <bylaws>규정</bylaws>을 준수하는 것에 동의합니다.",
+    "disagreementWarning": "만약 확인하지 않는다면, 법원은 고객이 채무자가 제안한 소송 가치 회수에 동의한다고 가정할 것입니다.",
+    "emailAlreadyInUseError": "이미 사용중인 이메일.",
+    "signInLink": "로그인",
+    "confirmButton": "네, 확인합니다.",
+    "cancelButton": "취소",
+    "successMessage": "등록이 완료되었습니다!",
+    "checkEmailMessage": "다음 단계를 확인하려면 이메일을 확인하세요.",
+    "emailExpiredError": "이메일 링크가 만료되었습니다.",
+    "signInOtherTabMessage": "다른 탭에서 로그인하세요."
   },
   "SignedInRegisterClaim": {
-    "notification": "Selected {count, plural, one {# claim} other {# claims}}",
-    "registerClaimButton": "Register Claim"
+    "notification": "선택된 {count, plural, one {# 청구} other {# 청구들}}",
+    "registerClaimButton": "청구 등록"
   }
 }
