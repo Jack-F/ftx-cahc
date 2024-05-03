@@ -1,13 +1,13 @@
 {
   "Home": {
-    "title": "FTX 고객 임시위원회(CAHC) 에 참여하고 반대 투표 하세요.",
+    "title": "FTX 고객 임시위원회(CAHC) 에 참여하고 반대에 투표 하세요.",
     "latest_news": "최신 뉴스",
     "latest": "최신",
     "latest_news_content": "3월 6일: FTX 채무자들, 4개월 연기 요청 및 미국 정부에 고객 자산으로 지불 요청",
-    "description": "With over <b>1000+ former FTX customers</b> holding <b>9-figures in claims</b> we have formed the largest voting block in the FTX bankruptcy cases.",
-    "legal_counsel": "Our legal counsel <b>McCarter & English, LLP</b> have filed customer property litigation: <b>docket 6863</b>",
-    "join_us": "Join us in voting <b>NO</b> on any plan that fails to addresses serious issues impacting recovery of customer property.",
-    "read_more": "Read our <bylaws>bylaws</bylaws> and <charter>charter</charter> to learn more.",
+    "description": "FTX 파산 사건에서 <b>1000명 이상의 전 FTX 고객들</b>이 <b>9자릿수 금액의 청구권</b>을 보유하고 있으며, 이로 인해 우리는 가장 큰 투표 블록을 형성하였습니다.",
+    "legal_counsel": "우리 법률 대리인 <b>McCarter & English, LLP</b>가 고객 재산 소송을 제기했습니다: <docket>사건번호 6863</docket>",
+    "join_us": "고객 자산 회수에 심각한 영향을 미치는 문제를 해결하지 못하는 어떠한 계획에도 <b>반대</b> 투표에 함께해 주세요.",
+    "read_more": "더 자세히 알고 싶으시면 우리의 <bylaws>정관</bylaws>과 <charter>헌장</charter>을 읽어보세요.",
     "find_your_ftx_claim": "당신의 FTX 청구를 찾으세요",
     "to_get_started": "시작하려면"
   },
