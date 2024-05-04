@@ -4,203 +4,203 @@
     "latest_news": "Последние новости",
     "latest": "Новости", 
     "latest_news_content": "6 марта: Должники FTX Debtors запросили очередную 4-месячную задержку, собираются выплатить правительству США деньги клиентов",
-    "description": "With over <b>1000+ former FTX customers</b> holding <b>9-figures in claims</b>Мы сформировали самый большой голосующий блок",
-    "legal_counsel": "Our legal counsel <b>McCarter & English, LLP</b> have filed customer property litigation: <b>docket 6863</b>",
-    "join_us": "Join us in voting <b>NO</b> on any plan that fails to addresses serious issues impacting recovery of customer property.",
-    "read_more": "Read our <bylaws>bylaws</bylaws> and <charter>charter</charter> to learn more.",
-    "find_your_ftx_claim": "Find your FTX claim",
-    "to_get_started": "to get started"
+    "description": "Мы сформировали самый большой голосующий блок, имея уже <b>1000+ присоединившихся клиентов FTX</b> и около <b>1 млрд USD</b> требований",
+    "legal_counsel": "Наш юридический прредставитель <b>McCarter & English, LLP</b> подал иск о признании средств клиентов собственностью клиентов, а не биржи: <b>docket 6863</b>",
+    "join_us": "Присоединяйтесь к нам в голосовании <b>НЕТ</b> любому плану, в котором не будет описаны пути возврата имущества клиентов.",
+    "read_more": "Прочитайте наш <charter>устав</charter> и <bylaws>правила</bylaws> чтобы узнать больше.",
+    "find_your_ftx_claim": "Найдите свое требование",
+    "to_get_started": "Чтобы присоединиться"
   },
   "CountStats": {
-    "stat1": "Customers Joined",
-    "stat2": "Total Claims"
+    "stat1": "Клиентов присоединилось",
+    "stat2": "Всего требований"
   },
   "FightingFor": {
-    "issues_with_current_plan": "Issues with current plan",
-    "we_vote_no": "We vote 'no' on any plan unless the following issues are addressed",
-    "debtors_filed_plan": "The debtors have filed a half-baked and value-destructive plan. We aim to fix it by litigating our property rights and negotiating for common sense solutions like those below.",
-    "priority_for_customers": "Priority for customers.",
-    "priority_for_customers_desc": "If the current plan stands, upside goes to non-customers even from proceeds that were 100% traced to customer wallets, like Anthropic.",
-    "theft_of_property_damages": "Theft of property damages.",
-    "theft_of_property_damages_desc": "Customers should recover today's valuation of their crypto assets due to theft of property.",
-    "no_withholding_tax": "No 30% withholding tax.",
-    "no_withholding_tax_desc": "Since the large majority of customers are non-US we will be subject to a 30% withholding tax which we will have to claim back from the IRS, an issue that the debtors have completely ignored due to their US focus.",
-    "digital_distributions": "Digital distributions.",
-    "digital_distributions_desc": "The debtors want to distribute recoveries via 'cash' which is lawyer-speak for checks in the mail. This is a huge and costly administrative burden that will reduce and delay recoveries."
+    "issues_with_current_plan": "Проблемы текущего плана реорганизации",
+    "we_vote_no": "Мы голосуем против любого плана, в котором не будет описаны пути преодоления следующих проблем",
+    "debtors_filed_plan": "Должники подали сырой и неконструктивный план. Мы хотим это исправить, оспорив и утвердив наше право собственности на наши активы и ведя переговоры о нижеследующем",
+    "priority_for_customers": "Приоритет для клиентов.",
+    "priority_for_customers_desc": "Если текущий план будет принят, все излишки отойдут не-клиентам, несмотря на то, что инвестиции на 100% отслежены как сделанный с клиентских кошельков, например Anthropic.",
+    "theft_of_property_damages": "Ущерб от кражи имущества.",
+    "theft_of_property_damages_desc": "Из-за кражи имущества клиентам должна быть возмещена стоимость криптоактивов по сегоднящним ценам.",
+    "no_withholding_tax": "Никаких 30% withholding налогов.",
+    "no_withholding_tax_desc": "Так как бОльшая часть клиентов не из США, предполагаеся что клиентам придется уплатить 30% американской налоговой службе, чтобы затем требовать обратно от налоговой службы самостоятельно. Эту проблему Должники полностью игнорируют в своем плане из-за своего фокуса на США.",
+    "digital_distributions": "Выплыты в цифровом виде.",
+    "digital_distributions_desc": "Должники собираются произвести выплаты 'наличными', что в переводе с языка юристов - бумажные чеки по почте. Это весьма затратная административная процедура которая только уменьшит и затруднит выплаты."
   },
   "TopNav": {
-    "home": "Home",
-    "find_claim": "Find Claim",
+    "home": "Домой",
+    "find_claim": "Найти требование",
     "telegram": "Telegram",
-    "my_claim_dashboard": "My Claim Dashboard",
-    "dashboard": "Dashboard",
-    "sign_in": "Sign In"
+    "my_claim_dashboard": "Мой Дашбоард",
+    "dashboard": "Дашбоард",
+    "sign_in": "Войти"
   },
   "Footer": {
-    "court_filings": "Court Filings",
+    "court_filings": "Заявления в Суд",
     "adversary_proceeding": "Adversary Proceeding",
-    "anthropic_objection": "Anthropic Objection",
-    "estimation_objection": "Estimation Objection",
-    "letter_to_ucc": "Letter to UCC",
-    "documents": "Documents",
-    "cahc_bylaws": "CAHC Bylaws",
-    "cahc_charter": "CAHC Charter",
-    "terms_of_service": "Terms of Service",
-    "privacy_policy": "Privacy Policy",
+    "anthropic_objection": "Возражение по Anthropic",
+    "estimation_objection": "Возражение на Оценку",
+    "letter_to_ucc": "Письмо в UCC",
+    "documents": "Документы",
+    "cahc_bylaws": "CAHC Правила",
+    "cahc_charter": "CAHC Устав",
+    "terms_of_service": "Условия использования",
+    "privacy_policy": "Политика конфиденциальности",
     "links": "Links",
     "cahc_telegram": "CAHC Telegram",
     "cahc_twitter": "CAHC Twitter",
-    "debtors_filings": "Debtors Filings",
-    "debtors_plan": "Debtor's Plan",
+    "debtors_filings": "Заявление Должника",
+    "debtors_plan": "План Должника",
     "disclosure_statement": "Disclosure Statement"
   },
   "Shell": {
-    "my_claim": "My Claim",
-    "find_claim": "Find Claim",
-    "recovery_analysis": "Recovery Analysis",
-    "sign_out": "Sign Out"
+    "my_claim": "Мое требование",
+    "find_claim": "Найти требование",
+    "recovery_analysis": "Анализ активов",
+    "sign_out": "Выйти"
   },
   "Dashboard": {
-    "title": "Welcome to the FTX Customer Ad-Hoc Voting Blo1ck",
-    "subtitle": "We have now formed the largest voting block with hundreds of members and 9-figures in claims.",
-    "claim_list_title": "Your Claim",
-    "now_what": "Now What?",
-    "now_what_text": "Join the <telegram>Telegram</telegram> group. Look out for emails from <white>updates@ftxvote.com</white> for further instructions.",
-    "about_us": "About us",
-    "about_us_text": "Thus far the FTX Debtors have proposed a value destructive plan.\n\nSince the Unsecured Creditors Committee has a fiduciary duty to all unsecured creditors including Alameda creditors, they are unable to fight on behalf of only FTX customers. Nor is the Ad Hoc Committee counseled by Eversheds an option, as they already agreed to settle their litigation and are now bound to support the debtors.\n\nThe estate is due to recover well over 100% petition date value and instead of accruing the surplus back to customers, the debtors plan to use our assets to pay non-customers and US government regulators instead.\n\nThe judge requires us to formally organize in order for our point of view to be considered in court."
+    "title": "Добро пожаловать в Комитет Клиентов FTX",
+    "subtitle": "Мы сформировали самый большой голосующий блок, имея уже 1000+ присоединившихся клиентов FTX и около 1 млрд USD требований.",
+    "claim_list_title": "Мое требование",
+    "now_what": "Что сейчас?",
+    "now_what_text": "Присоединяйтесь к нашей группе в <telegram>Telegram</telegram>. Следите за обновлениями по е-мейлу от <white>updates@ftxvote.com</white>.",
+    "about_us": "О нас",
+    "about_us_text": "На данный момент Должника FTX предложили неконструктивный план.\n\nТак как официальный комитет кредиторов имеет фидуциарные обязательства перед всеми необеспеченными кредиторами включая кредиторов Аламеды, он не может бороться за права только клиетов FTX. Так же за прва клиентов ФТХ не борется Ad Hoc Committee, консультируемый Eversheds, так как они уже согласились урегулировать их требования и сейчас соглашаются во всем с должниками.\n\nДолжники должны возместить гораздо более 100% обязательств на дату подачи заявления о банкротстве и вместо того, чтобы возвратить разницу клиентам, Должники планируют использовать активы, купленные за средства клиентов, чтобы заплатить не-клиентам и регулятивным органам США.\n\nСудья просит нам формально организоваться, чтобы наша точка зрения была услышана и рассмотрена в суде."
   },
   "MyClaims": {
-    "customer_code_long": "Customer code",
-    "customer_code_short": "Code",
-    "petition_value": "Petition value",
-    "today_value": "Today's value",
-    "verify_claim_text": "Verify ownership of this claim",
-    "verify_claim_btn": "Verify on ftx.com (coming soon)"
+    "customer_code_long": "Код Клиента",
+    "customer_code_short": "Код",
+    "petition_value": "Цены на 11/11/2022",
+    "today_value": "Цены сейчас",
+    "verify_claim_text": "Подтвердите, что это ваше требование",
+    "verify_claim_btn": "Подтвердите на ftx.com (скоро)"
   },
   "CoinsList": {
-    "th_asset": "Asset",
-    "th_balance": "Balance",
-    "th_petition": "Petition USD",
-    "th_today": "Today's USD",
+    "th_asset": "Актив",
+    "th_balance": "Баланс",
+    "th_petition": "Цены на 11/11/2022, USD",
+    "th_today": "Цены сейчас, USD",
     "coin_type": {
-      "token": "token"
+      "token": "Токен"
     }
   },
   "ThisIsMyClaim": {
-    "text": "Register this claim to get started",
-    "btn": "This is my claim"
+    "text": "Зарегистрируйте требование чтобы начать",
+    "btn": "Это мое требование"
   },
   "Find": {
-    "title": "Find a claim",
-    "subtitle": "For us to represent your voice in court, you must register your claim with us. If your claim shows correctly in <MyClaims>My Claims</MyClaims> then you don't need to do anything."
+    "title": "Найти требование",
+    "subtitle": "Для того, чтобы мы представляли Вас в суде, вы должны зарегистрировать ваше требование у нас. Если Ваше требование показывается правильно в разделе <MyClaims>Мои требования</MyClaims> ,то Вам не нужно ничего делать."
   },
   "SearchForm": {
-    "description": "Specify roughly how many tokens you had to identify your claim.",
-    "asset": "Asset",
-    "minimum": "Minimum",
-    "maximum": "Maximum",
-    "search": "Search",
-    "search_loading": "Searching through millions of claims..."
+    "description": "Укажите примерное количество токенов, чтобы найти ваше требование.",
+    "asset": "Актив",
+    "minimum": "Минимум",
+    "maximum": "Максимум",
+    "search": "Поиск",
+    "search_loading": "Ищем среди миллионов требований..."
   },
   "RecoveryAnalysis": {
-    "title": "Recovery Analysis",
-    "subtitle": "The estate holds far more assets than the customer property valued at petition date prices which will lead to a >$1 plan."
+    "title": "Анализ активов",
+    "subtitle": "Должники имеют гораздо больше активов, чем оценка имущества клиентов на дату подачи заявления о банкротстве, что должно вести к >100% плану."
   },
   "ImportantDates": {
-    "title": "Important Dates",
+    "title": "Важные даты",
     "date1": {
-      "title": "Mar 1",
+      "title": "1 марта",
       "description": "Disclosure Statement Due (Blown)",
       "highlight": "no",
       "easternTime": ""
     },
     "date2": {
-      "title": "Mar 20",
-      "description": "Omnibus Hearing",
+      "title": "20 марта",
+      "description": "Omnibus Слушание",
       "highlight": "yes",
       "easternTime": "10:00 ET"
     },
     "date3": {
-      "title": "Mar 28",
-      "description": "SBF Sentencing",
+      "title": "28 марта",
+      "description": "Суд над SBF",
       "highlight": "yes",
       "easternTime": "09:30 ET"
     },
     "date4": {
       "title": "May 15",
-      "description": "Disclosure Statement Confirmation Hearing (Blown)",
+      "description": "Слушание по подтверждению заявления о раскрытии информации (сорвано)",
       "highlight": "no",
       "easternTime": ""
     },
     "date5": {
-      "title": "Apr 18",
-      "description": "Hearing Cancelled",
+      "title": "Апр 18",
+      "description": "Слушание отменено",
       "highlight": "no",
       "easternTime": "13:00 ET"
     },
     "date6": {
-      "title": "May 1",
-      "description": "IRS Estimation Hearing",
+      "title": "Май 1",
+      "description": "Слушание по оценке требований IRS (налоговой США)",
       "highlight": "no",
       "easternTime": ""
     },
     "date7": {
-      "title": "May 12",
-      "description": "Debtor Exclusivity Expires",
+      "title": "Май 12",
+      "description": "Истекает срок прав на эксклюзивность внесения плана Должником",
       "highlight": "no",
       "easternTime": ""
     },
     "date8": {
-      "title": "May 23",
+      "title": "Май 23",
       "description": "Omnibus Hearing",
       "highlight": "yes",
       "easternTime": "13:00 ET"
     },
     "date9": {
-      "title": "June 15",
+      "title": "Июнь 15",
       "description": "Bahamas Bar Date",
       "highlight": "no",
       "easternTime": ""
     },
     "date10": {
-      "title": "Jul 1",
-      "description": "Plan Vote Deadline (Blown)",
+      "title": "Июль 1",
+      "description": "Предполагаемый дедлайн по голосований за план реорганизации (выплат) (вероятно сорван)",
       "highlight": "no",
       "easternTime": ""
     },
     "date11": {
-      "title": "Jul 12",
-      "description": "Solicitation Exclusivity Expires",
+      "title": "Июль 12",
+      "description": "Истекает Solicitation Exclusivity",
       "highlight": "no",
       "easternTime": ""
     }
   },
   "Register": {
-    "notification": "Selected {count, plural, one {# claim} other {# claims}}",
-    "registerButton": "Register"
+    "notification": "Выбрано(ы) {count, plural, one {# требование} other {# требований(я)}}",
+    "registerButton": "Зарегистрировать"
   },
   "SignUpWithClaims": {
-    "makeYourVoiceHeard": "Make your voice heard",
-    "completeRegistrationForm": "Complete this registration form",
-    "removeButton": "Remove",
-    "confirmOwnershipText": "Do you confirm, under penalty of perjury, that you are the owner of {count, plural, one {this claim?} other {these claims?}}",
-    "fullNameLabel": "Full name",
-    "fullNamePlaceholder": "Your Name",
-    "emailLabel": "Contact email",
+    "makeYourVoiceHeard": "Ваш голос должен быть услышан",
+    "completeRegistrationForm": "Заполните эту регистрационную форму",
+    "removeButton": "Удалить",
+    "confirmOwnershipText": "Вы подтверждаете, под ответственностью за лжесвидетествование, что вы являетесь владельцем {count, plural, one {данного требования?} other {данных требований?}}",
+    "fullNameLabel": "Полное Имя",
+    "fullNamePlaceholder": "Ваше Имя",
+    "emailLabel": "Контактный email",
     "emailPlaceholder": "your@email.com",
-    "agreementText": "By confirming you agree to the CAHC defending your property rights, to publish your name in a declaration to the court, to receive emails and to abide by our <bylaws>bylaws</bylaws>.",
-    "disagreementWarning": "If you DO NOT confirm, the court will assume customers agree with the debtors' proposed petition value recoveries.",
-    "emailAlreadyInUseError": "Email already in use.",
-    "signInLink": "Sign-in",
-    "confirmButton": "Yes, I Confirm",
-    "cancelButton": "Cancel",
-    "successMessage": "You have successfully registered!",
-    "checkEmailMessage": "Check your email for next steps.",
-    "emailExpiredError": "Email link has expired",
-    "signInOtherTabMessage": "Sign in on other tab"
+    "agreementText": "Подтверждая, вы соглашаетесть с тем, что CAHC будет защищать ваши имущественные права, на публикацию вашего имени в заявлении в суд, а также на получение е-мейлов и на соблюдение наших <bylaws>правил</bylaws>.",
+    "disagreementWarning": "Если вы НЕ подтверждаете, суд решит, что клиенты согласны с выплатами по ценам на дату подачи заявления о банкротстве.",
+    "emailAlreadyInUseError": "Email уже используется.",
+    "signInLink": "Войти",
+    "confirmButton": "Да, я подтверждаю",
+    "cancelButton": "Отменить",
+    "successMessage": "Вы успешно зарегистрированы!",
+    "checkEmailMessage": "Проверьте ваш е-мейл для следующих шагов.",
+    "emailExpiredError": "Истек срок действия ссылки в е-мейле",
+    "signInOtherTabMessage": "Войти в другой вкладке"
   },
   "SignedInRegisterClaim": {
-    "notification": "Selected {count, plural, one {# claim} other {# claims}}",
-    "registerClaimButton": "Register Claim"
+    "notification": "Выбрано {count, plural, one {# требование} other {# требования(й)}}",
+    "registerClaimButton": "Зарегистрировать требование"
   }
 }
